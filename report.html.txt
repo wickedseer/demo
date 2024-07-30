@@ -1,5 +1,5 @@
 <html>
   <body>
-  <h1>Reports Page</h1>
+  <h1>Reports Page Sample</h1>
  </body>
 </html>
